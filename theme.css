@@ -8,7 +8,7 @@
  * @invite vencord
 */
 
-@import "https://raw.githubusercontent.com/Synqat/vencord-theme/main/versions/latest.css";
+@import ""; /* you can add back your link, it was hard for me to dev with two seperate files */
 
 /* it is what it is */
 :root {
